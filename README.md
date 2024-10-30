@@ -1,1 +1,1 @@
-# A initial project using: Vite + Vue 3 + shadcn-vue
+# An oral language learning app
